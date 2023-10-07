@@ -27,6 +27,7 @@ int main() {
     }
     else
     {
+        // germanium
       I0=.025;
       n=1.4;
     }
